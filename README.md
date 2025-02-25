@@ -1,2 +1,2 @@
 # WebScraping
-This repository will contain all the Web Scraped python notebooks.
+This repository contains all the Web Scraped python notebooks.
